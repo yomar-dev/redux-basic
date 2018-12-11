@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yomar-dev/redux-basic/issues"
   },
-  "homepage": "https://github.com/yomar-dev/redux-basic#readme"
+  "homepage": "https://github.com/yomar-dev/redux-basic#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
 }
